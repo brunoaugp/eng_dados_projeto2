@@ -1,6 +1,6 @@
 # Projeto2 - Aquisição e Disponibilização de Dados em Streaming de Sensores de Turbina Eólica (fictícios) em Ambiente AWS (AWS S3, AWS Kinesis, AWS Glue e AWS Athena)
 
->Projeto realizado juntamente ao curso de Formação em Engenharia de dados [2022] para consolidar conhecimento adquirido.
+>Projeto de aquisição e disponibilização de dados em Streaming em ambiente AWS realizado juntamente ao curso de Formação em Engenharia de dados [2022].
 ## Objetivo:
 Este projeto tem como objetivo simular a aquisição de dados em tempo real (Streaming) de sensores instalados em uma turbina eólica e seu armazenamento e análise no ambiente AWS como descrito a seguir:
 
